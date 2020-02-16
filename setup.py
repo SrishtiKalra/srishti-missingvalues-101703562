@@ -7,8 +7,8 @@ setup(
       description = 'package for handling missing values',   # Give a short description about your library
       author = 'Srishti',                   # Type in your name
       author_email = 'srishti.1007.sk@gamil.com',      # Type in your E-Mail
-      url = 'https://github.com/simrankaur7575/missing_values-101703547-simran_kaur',   # Provide either the link to your github or to your website
-      download_url = 'https://github.com/simrankaur7575/missing_values-101703547-simran_kaur/archive/0.1.tar.gz',    # I explain this later on
+      url = 'https://github.com/SrishtiKalra/srishti-missingvalues-101703562',   # Provide either the link to your github or to your website
+      download_url = 'https://github.com/SrishtiKalra/srishti-missingvalues-101703562/archive/0.1.tar.gz',    # I explain this later on
       keywords = ['missing-values', 'handling', 'python'],   # Keywords that define your package best
       install_requires=[            # I get to this in a second
                         'numpy',
